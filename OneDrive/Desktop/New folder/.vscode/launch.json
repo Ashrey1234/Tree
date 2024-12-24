@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Ashura/OneDrive/Desktop/New folder/MManga",
-      "program": "c:/Users/Ashura/OneDrive/Desktop/New folder/MManga/build/Debug/outDebug",
+      "cwd": "c:/Users/Ashura/OneDrive/Desktop/New folder",
+      "program": "c:/Users/Ashura/OneDrive/Desktop/New folder/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
